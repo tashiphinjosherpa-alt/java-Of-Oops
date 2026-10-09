@@ -1,0 +1,1267 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Apple",
+            "request": "launch",
+            "mainClass": "Apple",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MyThreads.Main",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MAin",
+            "request": "launch",
+            "mainClass": "MyThreads.MAin",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Auguest.Hello",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MAin",
+            "request": "launch",
+            "mainClass": "Auguest.MAin",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "NullPOinterException",
+            "request": "launch",
+            "mainClass": "Auguest.NullPOinterException",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "NullPointerExceptional",
+            "request": "launch",
+            "mainClass": "Auguest.NullPointerExceptional",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "exceptionalHandeling",
+            "request": "launch",
+            "mainClass": "Auguest.exceptionalHandeling",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Apple",
+            "request": "launch",
+            "mainClass": "july.Apple",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Search_Array",
+            "request": "launch",
+            "mainClass": "july.Search_Array",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Add_Array",
+            "request": "launch",
+            "mainClass": "july.Add_Array",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Copy_Array",
+            "request": "launch",
+            "mainClass": "july.Copy_Array",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array_OF_Reverse",
+            "request": "launch",
+            "mainClass": "july.Array_OF_Reverse",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array6",
+            "request": "launch",
+            "mainClass": "july.Array6",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array5",
+            "request": "launch",
+            "mainClass": "july.Array5",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Arrray3",
+            "request": "launch",
+            "mainClass": "july.Arrray3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "july.Array2",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "july.Array1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "july.Array",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "employee",
+            "request": "launch",
+            "mainClass": "employee",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "apple",
+            "request": "launch",
+            "mainClass": "apple",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountDemo",
+            "request": "launch",
+            "mainClass": "BankAccountDemo",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "BookManagement",
+            "request": "launch",
+            "mainClass": "BookManagement",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDemo",
+            "request": "launch",
+            "mainClass": "EmployeeDemo",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo",
+            "request": "launch",
+            "mainClass": "StudentDemo",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "StringReversal",
+            "request": "launch",
+            "mainClass": "StringReversal",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "StringComparison",
+            "request": "launch",
+            "mainClass": "StringComparison",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "CharacterFrequency",
+            "request": "launch",
+            "mainClass": "CharacterFrequency",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeChecker",
+            "request": "launch",
+            "mainClass": "PalindromeChecker",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAddition",
+            "request": "launch",
+            "mainClass": "MatrixAddition",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Max_MinArray",
+            "request": "launch",
+            "mainClass": "Max_MinArray",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinArray",
+            "request": "launch",
+            "mainClass": "MaxMinArray",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "SumAndAverage",
+            "request": "launch",
+            "mainClass": "SumAndAverage",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Association_Direct_Ref",
+            "request": "launch",
+            "mainClass": "Association_Direct_Ref",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance_IS",
+            "request": "launch",
+            "mainClass": "Inheritance_IS",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Dependemncy_Uses",
+            "request": "launch",
+            "mainClass": "Dependemncy_Uses",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Association_HAS",
+            "request": "launch",
+            "mainClass": "Association_HAS",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Parametrized_Constructor",
+            "request": "launch",
+            "mainClass": "Parametrized_Constructor",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "InastanceV_With_parameter",
+            "request": "launch",
+            "mainClass": "InastanceV_With_parameter",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "parametre",
+            "request": "launch",
+            "mainClass": "parametre",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong_Number",
+            "request": "launch",
+            "mainClass": "Armstrong_Number",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "SUm_OF_Digit",
+            "request": "launch",
+            "mainClass": "SUm_OF_Digit",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "SumOF_digit",
+            "request": "launch",
+            "mainClass": "SumOF_digit",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Digit_Counter1",
+            "request": "launch",
+            "mainClass": "Digit_Counter1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Digit_counter",
+            "request": "launch",
+            "mainClass": "Digit_counter",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "LCM_Of",
+            "request": "launch",
+            "mainClass": "LCM_Of",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "arra",
+            "request": "launch",
+            "mainClass": "arra",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "addition",
+            "request": "launch",
+            "mainClass": "arrayinjava.addition",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "hcf1",
+            "request": "launch",
+            "mainClass": "july.hcf1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Hcf",
+            "request": "launch",
+            "mainClass": "july.Hcf",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Fibonaccise",
+            "request": "launch",
+            "mainClass": "july.Fibonaccise",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Prime_number",
+            "request": "launch",
+            "mainClass": "july.Prime_number",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Prime_not1",
+            "request": "launch",
+            "mainClass": "Prime_not1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Prime_not",
+            "request": "launch",
+            "mainClass": "Prime_not",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome1",
+            "request": "launch",
+            "mainClass": "Palindrome1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "july.Palindrome",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_NUm",
+            "request": "launch",
+            "mainClass": "july.Reverse_NUm",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Bankin_app1",
+            "request": "launch",
+            "mainClass": "july.Bankin_app1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "area",
+            "request": "launch",
+            "mainClass": "july.area",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Menu_Driven",
+            "request": "launch",
+            "mainClass": "july.Menu_Driven",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "july.Calculator",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Swap_Two3",
+            "request": "launch",
+            "mainClass": "july.Swap_Two3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Swap_Two2",
+            "request": "launch",
+            "mainClass": "july.Swap_Two2",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Swap_Two1",
+            "request": "launch",
+            "mainClass": "july.Swap_Two1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Swap_Two",
+            "request": "launch",
+            "mainClass": "july.Swap_Two",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Factorial1",
+            "request": "launch",
+            "mainClass": "july.Factorial1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "july.Factorial",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication_Table",
+            "request": "launch",
+            "mainClass": "july.Multiplication_Table",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Leap_Year1",
+            "request": "launch",
+            "mainClass": "july.Leap_Year1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Leap_year",
+            "request": "launch",
+            "mainClass": "july.Leap_year",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd1",
+            "request": "launch",
+            "mainClass": "july.Even_Odd1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd",
+            "request": "launch",
+            "mainClass": "july.Even_Odd",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Numbe",
+            "request": "launch",
+            "mainClass": "july.Largest_Numbe",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Number_3",
+            "request": "launch",
+            "mainClass": "july.Largest_Number_3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Number1",
+            "request": "launch",
+            "mainClass": "july.Largest_Number1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Number",
+            "request": "launch",
+            "mainClass": "july.Largest_Number",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Get_User_Input1",
+            "request": "launch",
+            "mainClass": "july.Get_User_Input1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Get_User_input",
+            "request": "launch",
+            "mainClass": "july.Get_User_input",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "return_example",
+            "request": "launch",
+            "mainClass": "july.return_example",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Return_Method",
+            "request": "launch",
+            "mainClass": "july.Return_Method",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Continue_While_Loop",
+            "request": "launch",
+            "mainClass": "july.Continue_While_Loop",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Continue_Example1",
+            "request": "launch",
+            "mainClass": "july.Continue_Example1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "july.Continue",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Break_Example1",
+            "request": "launch",
+            "mainClass": "july.Break_Example1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Break_Example",
+            "request": "launch",
+            "mainClass": "july.Break_Example",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "For_Each_Loop_Longest",
+            "request": "launch",
+            "mainClass": "july.For_Each_Loop_Longest",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "For_Each_Loop_Count",
+            "request": "launch",
+            "mainClass": "july.For_Each_Loop_Count",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "For_Each_Loop",
+            "request": "launch",
+            "mainClass": "july.For_Each_Loop",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Do_While_loop1",
+            "request": "launch",
+            "mainClass": "july.Do_While_loop1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Do_While_loop",
+            "request": "launch",
+            "mainClass": "july.Do_While_loop",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "while_loop3",
+            "request": "launch",
+            "mainClass": "july.while_loop3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "do_While2",
+            "request": "launch",
+            "mainClass": "july.do_While2",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "do_while1",
+            "request": "launch",
+            "mainClass": "july.do_while1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Do_while",
+            "request": "launch",
+            "mainClass": "july.Do_while",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "july.while_loop",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "for_loop",
+            "request": "launch",
+            "mainClass": "july.for_loop",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Switch_statement",
+            "request": "launch",
+            "mainClass": "july.Switch_statement",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "if_else_if",
+            "request": "launch",
+            "mainClass": "july.if_else_if",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "i_else_condition",
+            "request": "launch",
+            "mainClass": "july.i_else_condition",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "if_statement",
+            "request": "launch",
+            "mainClass": "july.if_statement",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "under_score_lateral",
+            "request": "launch",
+            "mainClass": "july.under_score_lateral",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "null_literal",
+            "request": "launch",
+            "mainClass": "july.null_literal",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Float_lateral",
+            "request": "launch",
+            "mainClass": "Float_lateral",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "variablr",
+            "request": "launch",
+            "mainClass": "variablr",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "explicit_typescasting",
+            "request": "launch",
+            "mainClass": "explicit_typescasting",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "implict_Typesc",
+            "request": "launch",
+            "mainClass": "july.implict_Typesc",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Inheritanc1",
+            "request": "launch",
+            "mainClass": "july.Inheritanc1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "method_overriding",
+            "request": "launch",
+            "mainClass": "july.method_overriding",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "method_overloading",
+            "request": "launch",
+            "mainClass": "july.method_overloading",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "ActualEncapsulated",
+            "request": "launch",
+            "mainClass": "july.ActualEncapsulated",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "actual_encapsulated",
+            "request": "launch",
+            "mainClass": "july.actual_encapsulated",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation_example",
+            "request": "launch",
+            "mainClass": "encapsulation_example",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation_example",
+            "request": "launch",
+            "mainClass": "july.encapsulation_example",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "statticclass",
+            "request": "launch",
+            "mainClass": "statticclass",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "static_variable",
+            "request": "launch",
+            "mainClass": "static_variable",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "parentconstructor",
+            "request": "launch",
+            "mainClass": "parentconstructor",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "parentc",
+            "request": "launch",
+            "mainClass": "july.parentc",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "parentclassmeth",
+            "request": "launch",
+            "mainClass": "july.parentclassmeth",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "parentclassmethod",
+            "request": "launch",
+            "mainClass": "july.parentclassmethod",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Superdem",
+            "request": "launch",
+            "mainClass": "july.Superdem",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "superdemo",
+            "request": "launch",
+            "mainClass": "july.superdemo",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "HAS_A1",
+            "request": "launch",
+            "mainClass": "july.HAS_A1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "USES_A",
+            "request": "launch",
+            "mainClass": "july.USES_A",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "USE_A",
+            "request": "launch",
+            "mainClass": "july.USE_A",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "HAS_A",
+            "request": "launch",
+            "mainClass": "july.HAS_A",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "simpleinheritance",
+            "request": "launch",
+            "mainClass": "simpleinheritance",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation6",
+            "request": "launch",
+            "mainClass": "encapsulation6",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation4",
+            "request": "launch",
+            "mainClass": "encapsulation4",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation5",
+            "request": "launch",
+            "mainClass": "encapsulation5",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation3",
+            "request": "launch",
+            "mainClass": "encapsulation3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation2",
+            "request": "launch",
+            "mainClass": "encapsulation2",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation1",
+            "request": "launch",
+            "mainClass": "encapsulation1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulatio",
+            "request": "launch",
+            "mainClass": "Encapsulatio",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation",
+            "request": "launch",
+            "mainClass": "encapsulation",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "employmentgetter",
+            "request": "launch",
+            "mainClass": "employmentgetter",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Vararg1",
+            "request": "launch",
+            "mainClass": "Vararg1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "vararg",
+            "request": "launch",
+            "mainClass": "vararg",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "byvalue1",
+            "request": "launch",
+            "mainClass": "byvalue1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "reference1",
+            "request": "launch",
+            "mainClass": "reference1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "reference",
+            "request": "launch",
+            "mainClass": "reference",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "byvalue",
+            "request": "launch",
+            "mainClass": "byvalue",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Animal1",
+            "request": "launch",
+            "mainClass": "Animal1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "animal1",
+            "request": "launch",
+            "mainClass": "animal1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "animal",
+            "request": "launch",
+            "mainClass": "animal",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "PassByReference",
+            "request": "launch",
+            "mainClass": "PassByReference",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "callbyvalue",
+            "request": "launch",
+            "mainClass": "callbyvalue",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciusingrecursion",
+            "request": "launch",
+            "mainClass": "fibonacciusingrecursion",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciseries",
+            "request": "launch",
+            "mainClass": "fibonacciseries",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "localinner",
+            "request": "launch",
+            "mainClass": "localinner",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "localinnerc",
+            "request": "launch",
+            "mainClass": "localinnerc",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "staticnestedclass",
+            "request": "launch",
+            "mainClass": "staticnestedclass",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "memberinner",
+            "request": "launch",
+            "mainClass": "memberinner",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "memberinner",
+            "request": "launch",
+            "mainClass": "july.memberinner",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anony3",
+            "request": "launch",
+            "mainClass": "july.anony3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anony2",
+            "request": "launch",
+            "mainClass": "july.anony2",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anony1",
+            "request": "launch",
+            "mainClass": "july.anony1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anony",
+            "request": "launch",
+            "mainClass": "july.anony",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anonymlus3",
+            "request": "launch",
+            "mainClass": "july.anonymlus3",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anonymous1",
+            "request": "launch",
+            "mainClass": "july.anonymous1",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "anonymous",
+            "request": "launch",
+            "mainClass": "july.anonymous",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "apple",
+            "request": "launch",
+            "mainClass": "july.apple",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "inner",
+            "request": "launch",
+            "mainClass": "inner",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "refactorial",
+            "request": "launch",
+            "mainClass": "refactorial",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "itself",
+            "request": "launch",
+            "mainClass": "itself",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "variableLeng",
+            "request": "launch",
+            "mainClass": "variableLeng",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "length",
+            "request": "launch",
+            "mainClass": "length",
+            "projectName": "java oops_28dabb48"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
